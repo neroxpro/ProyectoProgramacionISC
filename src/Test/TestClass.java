@@ -10,5 +10,5 @@ package Test;
  * @author PC2
  */
 public class TestClass {
-    //pogchamp hkjhkjh
+    //test class
 }
